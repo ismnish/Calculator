@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Ubuntu:wght@300&display=swap');
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(166, 236, 220, 0.968);
+}
